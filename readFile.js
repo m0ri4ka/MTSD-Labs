@@ -1,6 +1,5 @@
 const fs = require('fs');
 const validate = require('./validation');
-const findRoots = require('./findRoots');
 
 const readFile = (filePath) => {
     try {
