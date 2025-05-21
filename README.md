@@ -13,8 +13,7 @@ Supports both interactive (console input) and non-interactive (file input) modes
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/m0ri4ka/MTSD-Labs
-    cd mtsd/lab1
+    git clone https://github.com/m0ri4ka/MTSD-Lab1
     ```
 
 2. Run in interactive mode:
